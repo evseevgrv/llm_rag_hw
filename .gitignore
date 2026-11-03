@@ -1,0 +1,17 @@
+workspace/
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.ipynb_checkpoints/
+data/
+index/
+models/
+*.pdf
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+endpoint_log.jsonl
+.DS_Store
